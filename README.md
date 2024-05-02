@@ -1,2 +1,2 @@
 # FinalProjectJava
-A simple game I made in Java a while ago.
+A game I made in high school using Java's Swing Graphics.  This was an attempt to expand upon the Pokemon minigame voltorb flip.
